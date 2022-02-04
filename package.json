@@ -1,0 +1,9 @@
+{
+  "name": "elm-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "elm make src/Main.elm --output main.js"
+  }
+}
